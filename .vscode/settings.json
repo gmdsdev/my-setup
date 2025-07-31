@@ -1,0 +1,45 @@
+{
+  // Editor
+  "editor.fontFamily": "'JetBrainsMono Nerd Font', Menlo, Monaco, 'Courier New', monospace",
+  "editor.tabSize": 2,
+  // Formatter
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // Terminal
+  "terminal.integrated.scrollback": 10000,
+  // Color Theme
+  "workbench.colorTheme": "Vesper",
+  "workbench.colorCustomizations": {
+    "[Vesper]": {
+      "sideBar.border": "#373737",
+      "statusBar.border": "#373737",
+      "titleBar.border": "#373737",
+      "tab.border": "#373737",
+      "tab.activeBorder": "#161616",
+      "editorGroupHeader.border": "#373737"
+    }
+  },
+  // Icon Theme
+  "workbench.iconTheme": "chalice-icon-theme",
+  "chaliceIcons.showArrows": true,
+  // Cursor
+  "editor.cursorSmoothCaretAnimation": "on",
+  // Workbench
+  "workbench.layoutControl.enabled": false,
+  "workbench.startupEditor": "none",
+  "workbench.editor.labelFormat": "short",
+  "workbench.navigationControl.enabled": false,
+  "workbench.activityBar.orientation": "vertical",
+  "workbench.activityBar.location": "hidden",
+  // Explorer
+  "explorer.confirmDragAndDrop": false,
+  "explorer.fileNesting.enabled": true,
+  "explorer.compactFolders": false,
+  // Misc
+  "breadcrumbs.enabled": false,
+  "files.trimTrailingWhitespace": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  // Language specific
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always"
+}

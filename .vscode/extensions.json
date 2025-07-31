@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "artlaman.chalice-icon-theme",
+    "biomejs.biome",
+    "bradlc.vscode-tailwindcss",
+    "esbenp.prettier-vscode",
+    "raunofreiberg.vesper",
+    "syler.sass-indented",
+    "usernamehw.errorlens",
+    "vitest.explorer",
+    "vue.volar",
+    "yoavbls.pretty-ts-errors"
+  ]
+}
