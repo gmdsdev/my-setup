@@ -7,8 +7,6 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   // Terminal
   "terminal.integrated.scrollback": 10000,
-  // Color Theme
-  "workbench.colorTheme": "Vesper",
   "workbench.colorCustomizations": {
     "[Vesper]": {
       "sideBar.border": "#373737",
@@ -41,5 +39,6 @@
   "security.workspace.trust.untrustedFiles": "open",
   // Language specific
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "javascript.updateImportsOnFileMove.enabled": "always"
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "biome.suggestInstallingGlobally": false
 }
