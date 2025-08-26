@@ -41,6 +41,5 @@
   "security.workspace.trust.untrustedFiles": "open",
   // Language specific
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "javascript.updateImportsOnFileMove.enabled": "always",
-  "biome.suggestInstallingGlobally": false
+  "javascript.updateImportsOnFileMove.enabled": "always"
 }
