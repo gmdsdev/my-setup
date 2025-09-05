@@ -41,5 +41,8 @@
   "security.workspace.trust.untrustedFiles": "open",
   // Language specific
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "javascript.updateImportsOnFileMove.enabled": "always"
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  // Custom UI Style
+  "custom-ui-style.font.monospace": "'JetBrainsMono Nerd Font'",
+  "custom-ui-style.font.sansSerif": "'JetBrainsMono Nerd Font'"
 }
